@@ -6,10 +6,15 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 
+/*
+ * This comment is added by Troll Mastah Techno Ganstah
+ */
+
 namespace LudumDareGame
 {
     class Actor
     {
+        int temp_ = 190;
         #region variables
         AnimatedSprite animatedSpr;
         Rectangle bounds;
